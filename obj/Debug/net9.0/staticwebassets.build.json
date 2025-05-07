@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HTwgUcDjjCNXBAhVfWNQLo9T6teq5oUCSI4zh8iCIqs=",
+  "Hash": "Mt7sCFnZWzc0II/lfLIc6xftR94KyqFZroH+jmoqPLc=",
   "Source": "Dota2Blazor",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "ct15vlm3dt",
-      "Integrity": "kFSLZ7/elzTovOMMImsUj/JhPHgqYcwgri2HcMw9dqI=",
+      "Fingerprint": "sw3lp9shww",
+      "Integrity": "DIRn/p2ZhQVs2V6XBykf4y50AeHSSXNWXUcuHUqGI40=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "6l1ish789o",
-      "Integrity": "isgz8/SpzKIawh34IIXSPLB5FN6IZCi1+7PgDbItz7g=",
+      "Fingerprint": "24qidsmu6g",
+      "Integrity": "slGBGMNwSLURAyJwHt0ob3RSfxPH1fjYj/KxzdIAkQ0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\Dota2Blazor.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "dhpsm3l4xq",
-      "Integrity": "AYJ2Zwkcxc9X6O+oKjSC3hgIYyYTwLWtvbNMPecavhs=",
+      "Fingerprint": "2tjlkqy7bx",
+      "Integrity": "eoxo6yMvfini53BR1IiI/v9IZu8k3whNwx4DKjrP3Wg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\webcil\\Dota2Blazor.wasm"
@@ -5414,7 +5414,7 @@
       "OriginalItemSpec": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\6v83ykzayy-ct15vlm3dt.gz",
+      "Identity": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\6v83ykzayy-sw3lp9shww.gz",
       "SourceId": "Dota2Blazor",
       "SourceType": "Computed",
       "ContentRoot": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\",
@@ -5428,8 +5428,8 @@
       "RelatedAsset": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "dld29kxfxf",
-      "Integrity": "rwU/9aRF2nevJ2HVvKiA8/hXIh0A4kTNuEoOMR+xN/U=",
+      "Fingerprint": "jt4e4yc96t",
+      "Integrity": "51sZMvTDY60/DeHqHLVQilRlfp07mhdyrCv3ljet1rU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -5685,27 +5685,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Numerics.wasm"
-    },
-    {
-      "Identity": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\8ddxctha6r-iag0ou56lh.gz",
-      "SourceId": "Dota2Blazor",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "sample-data/weather#[.{fingerprint=iag0ou56lh}]?.json.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\wwwroot\\sample-data\\weather.json",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "4cbitfuojg",
-      "Integrity": "HD3vAUwurZXW96vdgG5RVLhMjmVeSgBs4iKLSw2+Uwk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\wwwroot\\sample-data\\weather.json"
     },
     {
       "Identity": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\8hro1ilpjt-lfu7j35m59.gz",
@@ -6275,12 +6254,12 @@
       "OriginalItemSpec": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Private.Xml.wasm"
     },
     {
-      "Identity": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\azjp098t9a-6l1ish789o.gz",
+      "Identity": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\azjp098t9a-24qidsmu6g.gz",
       "SourceId": "Dota2Blazor",
       "SourceType": "Computed",
       "ContentRoot": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Dota2Blazor#[.{fingerprint=6l1ish789o}]!.pdb.gz",
+      "RelativePath": "_framework/Dota2Blazor#[.{fingerprint=24qidsmu6g}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6289,8 +6268,8 @@
       "RelatedAsset": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dota2Blazor.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2nr4xw6r69",
-      "Integrity": "7sU6zPaVl3gEELm99OW/W1JWcXZQMnl8n1Muz7irE1s=",
+      "Fingerprint": "55ol3itg2a",
+      "Integrity": "eah+1fLlxsNhLtWN+Rlp0v71NgDkDdTJ+0teewjKCwo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dota2Blazor.pdb"
@@ -7178,12 +7157,12 @@
       "OriginalItemSpec": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Text.Encoding.CodePages.wasm"
     },
     {
-      "Identity": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\i3yjv3hex0-8rbvw3on5j.gz",
+      "Identity": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\i3yjv3hex0-9edj42p4bz.gz",
       "SourceId": "Dota2Blazor",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "css/app#[.{fingerprint=8rbvw3on5j}]?.css.gz",
+      "RelativePath": "css/app#[.{fingerprint=9edj42p4bz}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7192,8 +7171,8 @@
       "RelatedAsset": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ri8oomj080",
-      "Integrity": "3V6n6GUWrXibPBz7fhqi3nKUDtOkIOblRDVtLs9wCh4=",
+      "Fingerprint": "yiz2yye4xs",
+      "Integrity": "WiogXUw8q+Y1p8rlTI6eSOqwaYl8cenleFejoZViVYw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\wwwroot\\css\\app.css"
@@ -7934,12 +7913,12 @@
       "OriginalItemSpec": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Core.wasm"
     },
     {
-      "Identity": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\p5u05193gt-zjdkhz3nyf.gz",
+      "Identity": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\p5u05193gt-037sgwkmve.gz",
       "SourceId": "Dota2Blazor",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=zjdkhz3nyf}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=037sgwkmve}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7948,8 +7927,8 @@
       "RelatedAsset": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "gpqfgj3fyl",
-      "Integrity": "DJ8n5ztXM2GoGTDi3VWhcZmxCtaSeWrnw+uBhHBUZfc=",
+      "Fingerprint": "2gqnrd0g6i",
+      "Integrity": "XsvuFhUaGCCPEMekoAdLd7I9ryjBDeMxbchdmice6N4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\wwwroot\\index.html"
@@ -9026,12 +9005,12 @@
       "OriginalItemSpec": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.wasm"
     },
     {
-      "Identity": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\womfyqk942-dhpsm3l4xq.gz",
+      "Identity": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\womfyqk942-2tjlkqy7bx.gz",
       "SourceId": "Dota2Blazor",
       "SourceType": "Computed",
       "ContentRoot": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Dota2Blazor#[.{fingerprint=dhpsm3l4xq}]!.wasm.gz",
+      "RelativePath": "_framework/Dota2Blazor#[.{fingerprint=2tjlkqy7bx}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -9040,8 +9019,8 @@
       "RelatedAsset": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dota2Blazor.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "rutw74irq1",
-      "Integrity": "3cnMRA94ndP0a3nngLXgmkth1Coejr9ojuTc+8m/37A=",
+      "Fingerprint": "3lvdus0hl7",
+      "Integrity": "J++nNKGtJsZAAlDeUa85dchyBoDWcS1OBO/N34vzpqM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dota2Blazor.wasm"
@@ -9670,8 +9649,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8rbvw3on5j",
-      "Integrity": "vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU=",
+      "Fingerprint": "9edj42p4bz",
+      "Integrity": "b9ntIvQyzOiUIGVv1xJ3SyCihgJMlaHA8JU2jpQarLc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\app.css"
@@ -9733,8 +9712,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zjdkhz3nyf",
-      "Integrity": "n465+bKZg35x3P+dRY3MQHVAoEuparKfcgphUt4DLWw=",
+      "Fingerprint": "037sgwkmve",
+      "Integrity": "JJ2vtyr1WlCC9REf6qB+JUvoZ+lbzZMldbL/Fe8cdsc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -10662,27 +10641,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
-    },
-    {
-      "Identity": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\wwwroot\\sample-data\\weather.json",
-      "SourceId": "Dota2Blazor",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "sample-data/weather#[.{fingerprint}]?.json",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "iag0ou56lh",
-      "Integrity": "enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\sample-data\\weather.json"
     }
   ],
   "Endpoints": [
@@ -10705,11 +10663,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kFSLZ7/elzTovOMMImsUj/JhPHgqYcwgri2HcMw9dqI=\""
+          "Value": "\"DIRn/p2ZhQVs2V6XBykf4y50AeHSSXNWXUcuHUqGI40=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:26:04 GMT"
+          "Value": "Wed, 07 May 2025 22:59:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10719,18 +10677,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kFSLZ7/elzTovOMMImsUj/JhPHgqYcwgri2HcMw9dqI="
+          "Value": "sha256-DIRn/p2ZhQVs2V6XBykf4y50AeHSSXNWXUcuHUqGI40="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\6v83ykzayy-ct15vlm3dt.gz",
+      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\6v83ykzayy-sw3lp9shww.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081208381"
+          "Quality": "0.000081214976"
         }
       ],
       "ResponseHeaders": [
@@ -10740,15 +10698,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12313"
+          "Value": "12312"
         },
         {
           "Name": "ETag",
-          "Value": "\"rwU/9aRF2nevJ2HVvKiA8/hXIh0A4kTNuEoOMR+xN/U=\""
+          "Value": "\"51sZMvTDY60/DeHqHLVQilRlfp07mhdyrCv3ljet1rU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:16:20 GMT"
+          "Value": "Wed, 07 May 2025 22:57:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10768,19 +10726,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"kFSLZ7/elzTovOMMImsUj/JhPHgqYcwgri2HcMw9dqI=\""
+          "Value": "W/\"DIRn/p2ZhQVs2V6XBykf4y50AeHSSXNWXUcuHUqGI40=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kFSLZ7/elzTovOMMImsUj/JhPHgqYcwgri2HcMw9dqI="
+          "Value": "sha256-DIRn/p2ZhQVs2V6XBykf4y50AeHSSXNWXUcuHUqGI40="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\6v83ykzayy-ct15vlm3dt.gz",
+      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\6v83ykzayy-sw3lp9shww.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10789,7 +10747,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12313"
+          "Value": "12312"
         },
         {
           "Name": "Content-Type",
@@ -10797,11 +10755,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rwU/9aRF2nevJ2HVvKiA8/hXIh0A4kTNuEoOMR+xN/U=\""
+          "Value": "\"51sZMvTDY60/DeHqHLVQilRlfp07mhdyrCv3ljet1rU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:16:20 GMT"
+          "Value": "Wed, 07 May 2025 22:57:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10777,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rwU/9aRF2nevJ2HVvKiA8/hXIh0A4kTNuEoOMR+xN/U="
+          "Value": "sha256-51sZMvTDY60/DeHqHLVQilRlfp07mhdyrCv3ljet1rU="
         }
       ]
     },
@@ -10961,7 +10919,7 @@
       ]
     },
     {
-      "Route": "_framework/Dota2Blazor.6l1ish789o.pdb",
+      "Route": "_framework/Dota2Blazor.24qidsmu6g.pdb",
       "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dota2Blazor.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -10971,7 +10929,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31340"
+          "Value": "50368"
         },
         {
           "Name": "Content-Type",
@@ -10979,11 +10937,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"isgz8/SpzKIawh34IIXSPLB5FN6IZCi1+7PgDbItz7g=\""
+          "Value": "\"slGBGMNwSLURAyJwHt0ob3RSfxPH1fjYj/KxzdIAkQ0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:26:03 GMT"
+          "Value": "Wed, 07 May 2025 22:59:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10993,7 +10951,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6l1ish789o"
+          "Value": "24qidsmu6g"
         },
         {
           "Name": "label",
@@ -11001,18 +10959,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-isgz8/SpzKIawh34IIXSPLB5FN6IZCi1+7PgDbItz7g="
+          "Value": "sha256-slGBGMNwSLURAyJwHt0ob3RSfxPH1fjYj/KxzdIAkQ0="
         }
       ]
     },
     {
-      "Route": "_framework/Dota2Blazor.6l1ish789o.pdb",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\azjp098t9a-6l1ish789o.gz",
+      "Route": "_framework/Dota2Blazor.24qidsmu6g.pdb",
+      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\azjp098t9a-24qidsmu6g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000042992261"
+          "Quality": "0.000027213846"
         }
       ],
       "ResponseHeaders": [
@@ -11022,15 +10980,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23259"
+          "Value": "36745"
         },
         {
           "Name": "ETag",
-          "Value": "\"7sU6zPaVl3gEELm99OW/W1JWcXZQMnl8n1Muz7irE1s=\""
+          "Value": "\"eah+1fLlxsNhLtWN+Rlp0v71NgDkDdTJ+0teewjKCwo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:26:04 GMT"
+          "Value": "Wed, 07 May 2025 22:59:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11050,13 +11008,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"isgz8/SpzKIawh34IIXSPLB5FN6IZCi1+7PgDbItz7g=\""
+          "Value": "W/\"slGBGMNwSLURAyJwHt0ob3RSfxPH1fjYj/KxzdIAkQ0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6l1ish789o"
+          "Value": "24qidsmu6g"
         },
         {
           "Name": "label",
@@ -11064,13 +11022,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-isgz8/SpzKIawh34IIXSPLB5FN6IZCi1+7PgDbItz7g="
+          "Value": "sha256-slGBGMNwSLURAyJwHt0ob3RSfxPH1fjYj/KxzdIAkQ0="
         }
       ]
     },
     {
-      "Route": "_framework/Dota2Blazor.6l1ish789o.pdb.gz",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\azjp098t9a-6l1ish789o.gz",
+      "Route": "_framework/Dota2Blazor.24qidsmu6g.pdb.gz",
+      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\azjp098t9a-24qidsmu6g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11079,7 +11037,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23259"
+          "Value": "36745"
         },
         {
           "Name": "Content-Type",
@@ -11087,11 +11045,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7sU6zPaVl3gEELm99OW/W1JWcXZQMnl8n1Muz7irE1s=\""
+          "Value": "\"eah+1fLlxsNhLtWN+Rlp0v71NgDkDdTJ+0teewjKCwo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:26:04 GMT"
+          "Value": "Wed, 07 May 2025 22:59:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11109,7 +11067,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6l1ish789o"
+          "Value": "24qidsmu6g"
         },
         {
           "Name": "label",
@@ -11117,12 +11075,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7sU6zPaVl3gEELm99OW/W1JWcXZQMnl8n1Muz7irE1s="
+          "Value": "sha256-eah+1fLlxsNhLtWN+Rlp0v71NgDkDdTJ+0teewjKCwo="
         }
       ]
     },
     {
-      "Route": "_framework/Dota2Blazor.dhpsm3l4xq.wasm",
+      "Route": "_framework/Dota2Blazor.2tjlkqy7bx.wasm",
       "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dota2Blazor.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11132,7 +11090,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36629"
+          "Value": "86293"
         },
         {
           "Name": "Content-Type",
@@ -11140,11 +11098,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AYJ2Zwkcxc9X6O+oKjSC3hgIYyYTwLWtvbNMPecavhs=\""
+          "Value": "\"eoxo6yMvfini53BR1IiI/v9IZu8k3whNwx4DKjrP3Wg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:26:03 GMT"
+          "Value": "Wed, 07 May 2025 22:59:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11154,7 +11112,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dhpsm3l4xq"
+          "Value": "2tjlkqy7bx"
         },
         {
           "Name": "label",
@@ -11162,18 +11120,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AYJ2Zwkcxc9X6O+oKjSC3hgIYyYTwLWtvbNMPecavhs="
+          "Value": "sha256-eoxo6yMvfini53BR1IiI/v9IZu8k3whNwx4DKjrP3Wg="
         }
       ]
     },
     {
-      "Route": "_framework/Dota2Blazor.dhpsm3l4xq.wasm",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\womfyqk942-dhpsm3l4xq.gz",
+      "Route": "_framework/Dota2Blazor.2tjlkqy7bx.wasm",
+      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\womfyqk942-2tjlkqy7bx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000066613376"
+          "Quality": "0.000034386713"
         }
       ],
       "ResponseHeaders": [
@@ -11183,15 +11141,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15011"
+          "Value": "29080"
         },
         {
           "Name": "ETag",
-          "Value": "\"3cnMRA94ndP0a3nngLXgmkth1Coejr9ojuTc+8m/37A=\""
+          "Value": "\"J++nNKGtJsZAAlDeUa85dchyBoDWcS1OBO/N34vzpqM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:26:04 GMT"
+          "Value": "Wed, 07 May 2025 22:59:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11211,13 +11169,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"AYJ2Zwkcxc9X6O+oKjSC3hgIYyYTwLWtvbNMPecavhs=\""
+          "Value": "W/\"eoxo6yMvfini53BR1IiI/v9IZu8k3whNwx4DKjrP3Wg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dhpsm3l4xq"
+          "Value": "2tjlkqy7bx"
         },
         {
           "Name": "label",
@@ -11225,13 +11183,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AYJ2Zwkcxc9X6O+oKjSC3hgIYyYTwLWtvbNMPecavhs="
+          "Value": "sha256-eoxo6yMvfini53BR1IiI/v9IZu8k3whNwx4DKjrP3Wg="
         }
       ]
     },
     {
-      "Route": "_framework/Dota2Blazor.dhpsm3l4xq.wasm.gz",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\womfyqk942-dhpsm3l4xq.gz",
+      "Route": "_framework/Dota2Blazor.2tjlkqy7bx.wasm.gz",
+      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\womfyqk942-2tjlkqy7bx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11240,7 +11198,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15011"
+          "Value": "29080"
         },
         {
           "Name": "Content-Type",
@@ -11248,11 +11206,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3cnMRA94ndP0a3nngLXgmkth1Coejr9ojuTc+8m/37A=\""
+          "Value": "\"J++nNKGtJsZAAlDeUa85dchyBoDWcS1OBO/N34vzpqM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:26:04 GMT"
+          "Value": "Wed, 07 May 2025 22:59:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11270,7 +11228,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dhpsm3l4xq"
+          "Value": "2tjlkqy7bx"
         },
         {
           "Name": "label",
@@ -11278,7 +11236,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3cnMRA94ndP0a3nngLXgmkth1Coejr9ojuTc+8m/37A="
+          "Value": "sha256-J++nNKGtJsZAAlDeUa85dchyBoDWcS1OBO/N34vzpqM="
         }
       ]
     },
@@ -11293,7 +11251,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31340"
+          "Value": "50368"
         },
         {
           "Name": "Content-Type",
@@ -11301,11 +11259,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"isgz8/SpzKIawh34IIXSPLB5FN6IZCi1+7PgDbItz7g=\""
+          "Value": "\"slGBGMNwSLURAyJwHt0ob3RSfxPH1fjYj/KxzdIAkQ0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:26:03 GMT"
+          "Value": "Wed, 07 May 2025 22:59:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11315,18 +11273,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-isgz8/SpzKIawh34IIXSPLB5FN6IZCi1+7PgDbItz7g="
+          "Value": "sha256-slGBGMNwSLURAyJwHt0ob3RSfxPH1fjYj/KxzdIAkQ0="
         }
       ]
     },
     {
       "Route": "_framework/Dota2Blazor.pdb",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\azjp098t9a-6l1ish789o.gz",
+      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\azjp098t9a-24qidsmu6g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000042992261"
+          "Quality": "0.000027213846"
         }
       ],
       "ResponseHeaders": [
@@ -11336,15 +11294,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23259"
+          "Value": "36745"
         },
         {
           "Name": "ETag",
-          "Value": "\"7sU6zPaVl3gEELm99OW/W1JWcXZQMnl8n1Muz7irE1s=\""
+          "Value": "\"eah+1fLlxsNhLtWN+Rlp0v71NgDkDdTJ+0teewjKCwo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:26:04 GMT"
+          "Value": "Wed, 07 May 2025 22:59:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11364,19 +11322,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"isgz8/SpzKIawh34IIXSPLB5FN6IZCi1+7PgDbItz7g=\""
+          "Value": "W/\"slGBGMNwSLURAyJwHt0ob3RSfxPH1fjYj/KxzdIAkQ0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-isgz8/SpzKIawh34IIXSPLB5FN6IZCi1+7PgDbItz7g="
+          "Value": "sha256-slGBGMNwSLURAyJwHt0ob3RSfxPH1fjYj/KxzdIAkQ0="
         }
       ]
     },
     {
       "Route": "_framework/Dota2Blazor.pdb.gz",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\azjp098t9a-6l1ish789o.gz",
+      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\azjp098t9a-24qidsmu6g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11385,7 +11343,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23259"
+          "Value": "36745"
         },
         {
           "Name": "Content-Type",
@@ -11393,11 +11351,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7sU6zPaVl3gEELm99OW/W1JWcXZQMnl8n1Muz7irE1s=\""
+          "Value": "\"eah+1fLlxsNhLtWN+Rlp0v71NgDkDdTJ+0teewjKCwo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:26:04 GMT"
+          "Value": "Wed, 07 May 2025 22:59:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11415,7 +11373,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7sU6zPaVl3gEELm99OW/W1JWcXZQMnl8n1Muz7irE1s="
+          "Value": "sha256-eah+1fLlxsNhLtWN+Rlp0v71NgDkDdTJ+0teewjKCwo="
         }
       ]
     },
@@ -11430,7 +11388,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36629"
+          "Value": "86293"
         },
         {
           "Name": "Content-Type",
@@ -11438,11 +11396,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AYJ2Zwkcxc9X6O+oKjSC3hgIYyYTwLWtvbNMPecavhs=\""
+          "Value": "\"eoxo6yMvfini53BR1IiI/v9IZu8k3whNwx4DKjrP3Wg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:26:03 GMT"
+          "Value": "Wed, 07 May 2025 22:59:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11452,18 +11410,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AYJ2Zwkcxc9X6O+oKjSC3hgIYyYTwLWtvbNMPecavhs="
+          "Value": "sha256-eoxo6yMvfini53BR1IiI/v9IZu8k3whNwx4DKjrP3Wg="
         }
       ]
     },
     {
       "Route": "_framework/Dota2Blazor.wasm",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\womfyqk942-dhpsm3l4xq.gz",
+      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\womfyqk942-2tjlkqy7bx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000066613376"
+          "Quality": "0.000034386713"
         }
       ],
       "ResponseHeaders": [
@@ -11473,15 +11431,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15011"
+          "Value": "29080"
         },
         {
           "Name": "ETag",
-          "Value": "\"3cnMRA94ndP0a3nngLXgmkth1Coejr9ojuTc+8m/37A=\""
+          "Value": "\"J++nNKGtJsZAAlDeUa85dchyBoDWcS1OBO/N34vzpqM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:26:04 GMT"
+          "Value": "Wed, 07 May 2025 22:59:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11501,19 +11459,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"AYJ2Zwkcxc9X6O+oKjSC3hgIYyYTwLWtvbNMPecavhs=\""
+          "Value": "W/\"eoxo6yMvfini53BR1IiI/v9IZu8k3whNwx4DKjrP3Wg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AYJ2Zwkcxc9X6O+oKjSC3hgIYyYTwLWtvbNMPecavhs="
+          "Value": "sha256-eoxo6yMvfini53BR1IiI/v9IZu8k3whNwx4DKjrP3Wg="
         }
       ]
     },
     {
       "Route": "_framework/Dota2Blazor.wasm.gz",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\womfyqk942-dhpsm3l4xq.gz",
+      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\womfyqk942-2tjlkqy7bx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11522,7 +11480,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15011"
+          "Value": "29080"
         },
         {
           "Name": "Content-Type",
@@ -11530,11 +11488,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3cnMRA94ndP0a3nngLXgmkth1Coejr9ojuTc+8m/37A=\""
+          "Value": "\"J++nNKGtJsZAAlDeUa85dchyBoDWcS1OBO/N34vzpqM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:26:04 GMT"
+          "Value": "Wed, 07 May 2025 22:59:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11552,7 +11510,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3cnMRA94ndP0a3nngLXgmkth1Coejr9ojuTc+8m/37A="
+          "Value": "sha256-J++nNKGtJsZAAlDeUa85dchyBoDWcS1OBO/N34vzpqM="
         }
       ]
     },
@@ -71157,13 +71115,13 @@
       ]
     },
     {
-      "Route": "css/app.8rbvw3on5j.css",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\i3yjv3hex0-8rbvw3on5j.gz",
+      "Route": "css/app.9edj42p4bz.css",
+      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\i3yjv3hex0-9edj42p4bz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000492125984"
+          "Quality": "0.000472813239"
         }
       ],
       "ResponseHeaders": [
@@ -71173,15 +71131,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2031"
+          "Value": "2114"
         },
         {
           "Name": "ETag",
-          "Value": "\"3V6n6GUWrXibPBz7fhqi3nKUDtOkIOblRDVtLs9wCh4=\""
+          "Value": "\"WiogXUw8q+Y1p8rlTI6eSOqwaYl8cenleFejoZViVYw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:00:17 GMT"
+          "Value": "Wed, 07 May 2025 22:13:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71201,13 +71159,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU=\""
+          "Value": "W/\"b9ntIvQyzOiUIGVv1xJ3SyCihgJMlaHA8JU2jpQarLc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8rbvw3on5j"
+          "Value": "9edj42p4bz"
         },
         {
           "Name": "label",
@@ -71215,12 +71173,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU="
+          "Value": "sha256-b9ntIvQyzOiUIGVv1xJ3SyCihgJMlaHA8JU2jpQarLc="
         }
       ]
     },
     {
-      "Route": "css/app.8rbvw3on5j.css",
+      "Route": "css/app.9edj42p4bz.css",
       "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71230,7 +71188,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4151"
+          "Value": "4399"
         },
         {
           "Name": "Content-Type",
@@ -71238,11 +71196,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU=\""
+          "Value": "\"b9ntIvQyzOiUIGVv1xJ3SyCihgJMlaHA8JU2jpQarLc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:00:17 GMT"
+          "Value": "Wed, 07 May 2025 22:13:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71252,7 +71210,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8rbvw3on5j"
+          "Value": "9edj42p4bz"
         },
         {
           "Name": "label",
@@ -71260,13 +71218,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU="
+          "Value": "sha256-b9ntIvQyzOiUIGVv1xJ3SyCihgJMlaHA8JU2jpQarLc="
         }
       ]
     },
     {
-      "Route": "css/app.8rbvw3on5j.css.gz",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\i3yjv3hex0-8rbvw3on5j.gz",
+      "Route": "css/app.9edj42p4bz.css.gz",
+      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\i3yjv3hex0-9edj42p4bz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71275,7 +71233,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2031"
+          "Value": "2114"
         },
         {
           "Name": "Content-Type",
@@ -71283,11 +71241,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3V6n6GUWrXibPBz7fhqi3nKUDtOkIOblRDVtLs9wCh4=\""
+          "Value": "\"WiogXUw8q+Y1p8rlTI6eSOqwaYl8cenleFejoZViVYw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:00:17 GMT"
+          "Value": "Wed, 07 May 2025 22:13:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71305,7 +71263,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8rbvw3on5j"
+          "Value": "9edj42p4bz"
         },
         {
           "Name": "label",
@@ -71313,18 +71271,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3V6n6GUWrXibPBz7fhqi3nKUDtOkIOblRDVtLs9wCh4="
+          "Value": "sha256-WiogXUw8q+Y1p8rlTI6eSOqwaYl8cenleFejoZViVYw="
         }
       ]
     },
     {
       "Route": "css/app.css",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\i3yjv3hex0-8rbvw3on5j.gz",
+      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\i3yjv3hex0-9edj42p4bz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000492125984"
+          "Quality": "0.000472813239"
         }
       ],
       "ResponseHeaders": [
@@ -71334,15 +71292,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2031"
+          "Value": "2114"
         },
         {
           "Name": "ETag",
-          "Value": "\"3V6n6GUWrXibPBz7fhqi3nKUDtOkIOblRDVtLs9wCh4=\""
+          "Value": "\"WiogXUw8q+Y1p8rlTI6eSOqwaYl8cenleFejoZViVYw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:00:17 GMT"
+          "Value": "Wed, 07 May 2025 22:13:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71362,13 +71320,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU=\""
+          "Value": "W/\"b9ntIvQyzOiUIGVv1xJ3SyCihgJMlaHA8JU2jpQarLc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU="
+          "Value": "sha256-b9ntIvQyzOiUIGVv1xJ3SyCihgJMlaHA8JU2jpQarLc="
         }
       ]
     },
@@ -71383,7 +71341,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4151"
+          "Value": "4399"
         },
         {
           "Name": "Content-Type",
@@ -71391,11 +71349,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU=\""
+          "Value": "\"b9ntIvQyzOiUIGVv1xJ3SyCihgJMlaHA8JU2jpQarLc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:00:17 GMT"
+          "Value": "Wed, 07 May 2025 22:13:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71405,13 +71363,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU="
+          "Value": "sha256-b9ntIvQyzOiUIGVv1xJ3SyCihgJMlaHA8JU2jpQarLc="
         }
       ]
     },
     {
       "Route": "css/app.css.gz",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\i3yjv3hex0-8rbvw3on5j.gz",
+      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\i3yjv3hex0-9edj42p4bz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71420,7 +71378,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2031"
+          "Value": "2114"
         },
         {
           "Name": "Content-Type",
@@ -71428,11 +71386,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3V6n6GUWrXibPBz7fhqi3nKUDtOkIOblRDVtLs9wCh4=\""
+          "Value": "\"WiogXUw8q+Y1p8rlTI6eSOqwaYl8cenleFejoZViVYw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:00:17 GMT"
+          "Value": "Wed, 07 May 2025 22:13:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71450,7 +71408,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3V6n6GUWrXibPBz7fhqi3nKUDtOkIOblRDVtLs9wCh4="
+          "Value": "sha256-WiogXUw8q+Y1p8rlTI6eSOqwaYl8cenleFejoZViVYw="
         }
       ]
     },
@@ -72215,13 +72173,13 @@
       ]
     },
     {
-      "Route": "index.html",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\p5u05193gt-zjdkhz3nyf.gz",
+      "Route": "index.037sgwkmve.html",
+      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\p5u05193gt-037sgwkmve.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002127659574"
+          "Quality": "0.001862197393"
         }
       ],
       "ResponseHeaders": [
@@ -72231,19 +72189,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "469"
+          "Value": "536"
         },
         {
           "Name": "ETag",
-          "Value": "\"DJ8n5ztXM2GoGTDi3VWhcZmxCtaSeWrnw+uBhHBUZfc=\""
+          "Value": "\"XsvuFhUaGCCPEMekoAdLd7I9ryjBDeMxbchdmice6N4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:00:18 GMT"
+          "Value": "Wed, 07 May 2025 22:10:17 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -72259,18 +72217,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"n465+bKZg35x3P+dRY3MQHVAoEuparKfcgphUt4DLWw=\""
+          "Value": "W/\"JJ2vtyr1WlCC9REf6qB+JUvoZ+lbzZMldbL/Fe8cdsc=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "037sgwkmve"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-n465+bKZg35x3P+dRY3MQHVAoEuparKfcgphUt4DLWw="
+          "Value": "sha256-JJ2vtyr1WlCC9REf6qB+JUvoZ+lbzZMldbL/Fe8cdsc="
         }
       ]
     },
     {
-      "Route": "index.html",
+      "Route": "index.037sgwkmve.html",
       "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -72280,7 +72246,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "977"
+          "Value": "1223"
         },
         {
           "Name": "Content-Type",
@@ -72288,121 +72254,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n465+bKZg35x3P+dRY3MQHVAoEuparKfcgphUt4DLWw=\""
+          "Value": "\"JJ2vtyr1WlCC9REf6qB+JUvoZ+lbzZMldbL/Fe8cdsc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:00:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-n465+bKZg35x3P+dRY3MQHVAoEuparKfcgphUt4DLWw="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\p5u05193gt-zjdkhz3nyf.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "469"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DJ8n5ztXM2GoGTDi3VWhcZmxCtaSeWrnw+uBhHBUZfc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:00:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DJ8n5ztXM2GoGTDi3VWhcZmxCtaSeWrnw+uBhHBUZfc="
-        }
-      ]
-    },
-    {
-      "Route": "index.zjdkhz3nyf.html",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\p5u05193gt-zjdkhz3nyf.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002127659574"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "469"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DJ8n5ztXM2GoGTDi3VWhcZmxCtaSeWrnw+uBhHBUZfc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:00:18 GMT"
+          "Value": "Wed, 07 May 2025 22:10:17 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"n465+bKZg35x3P+dRY3MQHVAoEuparKfcgphUt4DLWw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zjdkhz3nyf"
+          "Value": "037sgwkmve"
         },
         {
           "Name": "label",
@@ -72410,13 +72276,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-n465+bKZg35x3P+dRY3MQHVAoEuparKfcgphUt4DLWw="
+          "Value": "sha256-JJ2vtyr1WlCC9REf6qB+JUvoZ+lbzZMldbL/Fe8cdsc="
         }
       ]
     },
     {
-      "Route": "index.zjdkhz3nyf.html",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\wwwroot\\index.html",
+      "Route": "index.037sgwkmve.html.gz",
+      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\p5u05193gt-037sgwkmve.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72425,7 +72291,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "977"
+          "Value": "536"
         },
         {
           "Name": "Content-Type",
@@ -72433,56 +72299,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n465+bKZg35x3P+dRY3MQHVAoEuparKfcgphUt4DLWw=\""
+          "Value": "\"XsvuFhUaGCCPEMekoAdLd7I9ryjBDeMxbchdmice6N4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:00:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zjdkhz3nyf"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-n465+bKZg35x3P+dRY3MQHVAoEuparKfcgphUt4DLWw="
-        }
-      ]
-    },
-    {
-      "Route": "index.zjdkhz3nyf.html.gz",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\p5u05193gt-zjdkhz3nyf.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "469"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DJ8n5ztXM2GoGTDi3VWhcZmxCtaSeWrnw+uBhHBUZfc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:00:18 GMT"
+          "Value": "Wed, 07 May 2025 22:10:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72500,7 +72321,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zjdkhz3nyf"
+          "Value": "037sgwkmve"
         },
         {
           "Name": "label",
@@ -72508,7 +72329,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DJ8n5ztXM2GoGTDi3VWhcZmxCtaSeWrnw+uBhHBUZfc="
+          "Value": "sha256-XsvuFhUaGCCPEMekoAdLd7I9ryjBDeMxbchdmice6N4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\p5u05193gt-037sgwkmve.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001862197393"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XsvuFhUaGCCPEMekoAdLd7I9ryjBDeMxbchdmice6N4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 22:10:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JJ2vtyr1WlCC9REf6qB+JUvoZ+lbzZMldbL/Fe8cdsc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JJ2vtyr1WlCC9REf6qB+JUvoZ+lbzZMldbL/Fe8cdsc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1223"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JJ2vtyr1WlCC9REf6qB+JUvoZ+lbzZMldbL/Fe8cdsc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 22:10:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JJ2vtyr1WlCC9REf6qB+JUvoZ+lbzZMldbL/Fe8cdsc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\p5u05193gt-037sgwkmve.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XsvuFhUaGCCPEMekoAdLd7I9ryjBDeMxbchdmice6N4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 22:10:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XsvuFhUaGCCPEMekoAdLd7I9ryjBDeMxbchdmice6N4="
         }
       ]
     },
@@ -85621,304 +85579,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-/tFdxkP6LW0OOQcwUmDnB12UOaUenKWRz72Eqht9ak0="
-        }
-      ]
-    },
-    {
-      "Route": "sample-data/weather.iag0ou56lh.json",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\8ddxctha6r-iag0ou56lh.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.006493506494"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "153"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HD3vAUwurZXW96vdgG5RVLhMjmVeSgBs4iKLSw2+Uwk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:00:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "iag0ou56lh"
-        },
-        {
-          "Name": "label",
-          "Value": "sample-data/weather.json"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU="
-        }
-      ]
-    },
-    {
-      "Route": "sample-data/weather.iag0ou56lh.json",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\wwwroot\\sample-data\\weather.json",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "453"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:00:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "iag0ou56lh"
-        },
-        {
-          "Name": "label",
-          "Value": "sample-data/weather.json"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU="
-        }
-      ]
-    },
-    {
-      "Route": "sample-data/weather.iag0ou56lh.json.gz",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\8ddxctha6r-iag0ou56lh.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "153"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HD3vAUwurZXW96vdgG5RVLhMjmVeSgBs4iKLSw2+Uwk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:00:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "iag0ou56lh"
-        },
-        {
-          "Name": "label",
-          "Value": "sample-data/weather.json.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-HD3vAUwurZXW96vdgG5RVLhMjmVeSgBs4iKLSw2+Uwk="
-        }
-      ]
-    },
-    {
-      "Route": "sample-data/weather.json",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\8ddxctha6r-iag0ou56lh.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.006493506494"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "153"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HD3vAUwurZXW96vdgG5RVLhMjmVeSgBs4iKLSw2+Uwk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:00:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU="
-        }
-      ]
-    },
-    {
-      "Route": "sample-data/weather.json",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\wwwroot\\sample-data\\weather.json",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "453"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:00:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU="
-        }
-      ]
-    },
-    {
-      "Route": "sample-data/weather.json.gz",
-      "AssetFile": "D:\\!PROGRAMMING PROJECTS\\labapi\\Dota2Blazor\\obj\\Debug\\net9.0\\compressed\\8ddxctha6r-iag0ou56lh.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "153"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HD3vAUwurZXW96vdgG5RVLhMjmVeSgBs4iKLSw2+Uwk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 21:00:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HD3vAUwurZXW96vdgG5RVLhMjmVeSgBs4iKLSw2+Uwk="
         }
       ]
     }

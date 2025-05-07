@@ -810,8 +810,6 @@ D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\scopedcss\bundle\Do
 D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\scopedcss\projectbundle\Dota2Blazor.bundle.scp.css
 D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\blazor.build.boot-extension.json
 D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\blazor.boot.json
-D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\i3yjv3hex0-8rbvw3on5j.gz
-D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\p5u05193gt-zjdkhz3nyf.gz
 D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\qs6fpzgmpk-bqjiyaj88i.gz
 D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\eydemc9ffc-c2jlpeoesf.gz
 D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\p8vh0jdyqa-erw9l3u2r3.gz
@@ -856,7 +854,6 @@ D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\yzl3l2vr
 D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\vyehsucyoj-62iswhey4q.gz
 D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\e3c1bnydht-63fj8s7r0e.gz
 D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\3zx122tb39-9f6q09de48.gz
-D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\8ddxctha6r-iag0ou56lh.gz
 D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\l92rsos3dd-yiodnjoszm.gz
 D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\aiguucsnah-a1pjnymy05.gz
 D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\syipukf9cl-a1pjnymy05.gz
@@ -1074,10 +1071,13 @@ D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\Dota2Blazor.dll
 D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\refint\Dota2Blazor.dll
 D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\Dota2Blazor.pdb
 D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\ref\Dota2Blazor.dll
-D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\bin\Debug\net9.0\wwwroot\_framework\Dota2Blazor.6l1ish789o.pdb
-D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\bin\Debug\net9.0\wwwroot\_framework\Dota2Blazor.dhpsm3l4xq.wasm
-D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\bin\Debug\net9.0\wwwroot\_framework\Dota2Blazor.6l1ish789o.pdb.gz
-D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\bin\Debug\net9.0\wwwroot\_framework\Dota2Blazor.dhpsm3l4xq.wasm.gz
-D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\womfyqk942-dhpsm3l4xq.gz
-D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\azjp098t9a-6l1ish789o.gz
-D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\6v83ykzayy-ct15vlm3dt.gz
+D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\Dota2Blazor.sourcelink.json
+D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\p5u05193gt-037sgwkmve.gz
+D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\i3yjv3hex0-9edj42p4bz.gz
+D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\bin\Debug\net9.0\wwwroot\_framework\Dota2Blazor.24qidsmu6g.pdb
+D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\bin\Debug\net9.0\wwwroot\_framework\Dota2Blazor.2tjlkqy7bx.wasm
+D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\bin\Debug\net9.0\wwwroot\_framework\Dota2Blazor.24qidsmu6g.pdb.gz
+D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\bin\Debug\net9.0\wwwroot\_framework\Dota2Blazor.2tjlkqy7bx.wasm.gz
+D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\womfyqk942-2tjlkqy7bx.gz
+D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\azjp098t9a-24qidsmu6g.gz
+D:\!PROGRAMMING PROJECTS\labapi\Dota2Blazor\obj\Debug\net9.0\compressed\6v83ykzayy-sw3lp9shww.gz

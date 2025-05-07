@@ -28,8 +28,12 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/\!PROGRAMMING PROJECTS/labapi/Dota2Blazor/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[D:/\!PROGRAMMING PROJECTS/labapi/Dota2Blazor/Pages/Abilities.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJpbGl0aWVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!PROGRAMMING PROJECTS/labapi/Dota2Blazor/Pages/Heroes.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVyb2VzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/\!PROGRAMMING PROJECTS/labapi/Dota2Blazor/Pages/Home.razor]
@@ -38,10 +42,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/\!PROGRAMMING PROJECTS/labapi/Dota2Blazor/Pages/Items.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXMucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/\!PROGRAMMING PROJECTS/labapi/Dota2Blazor/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/\!PROGRAMMING PROJECTS/labapi/Dota2Blazor/_Imports.razor]

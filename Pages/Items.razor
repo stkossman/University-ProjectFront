@@ -8,62 +8,52 @@
 
 <h3>Manage Dota 2 Items</h3>
 
-<!-- Error/Success Messages -->
 @if (!string.IsNullOrEmpty(message))
 {
     <div class="alert @(isError ? "alert-danger" : "alert-success")">@message</div>
 }
 
-<!-- Create/Edit Form -->
 <EditForm Model="@currentItem" OnValidSubmit="@HandleSubmit">
     <DataAnnotationsValidator />
     <ValidationSummary />
     
-    <!-- Name (Required) -->
     <div class="mb-3">
         <label class="form-label">Name*</label>
         <InputText @bind-Value="currentItem.Name" class="form-control" />
         <ValidationMessage For="@(() => currentItem.Name)" />
     </div>
 
-    <!-- Localized Name -->
     <div class="mb-3">
         <label class="form-label">Localized Name</label>
         <InputText @bind-Value="currentItem.LocalizedName" class="form-control" />
     </div>
 
-    <!-- Description -->
     <div class="mb-3">
         <label class="form-label">Description</label>
         <InputTextArea @bind-Value="currentItem.Description" class="form-control" />
     </div>
 
-    <!-- Cost -->
     <div class="mb-3">
         <label class="form-label">Cost*</label>
         <InputNumber @bind-Value="currentItem.Cost" class="form-control" />
         <ValidationMessage For="@(() => currentItem.Cost)" />
     </div>
 
-    <!-- Is Recipe (Checkbox) -->
     <div class="mb-3 form-check">
         <InputCheckbox @bind-Value="currentItem.IsRecipe" class="form-check-input" />
         <label class="form-check-label">Is Recipe?</label>
     </div>
 
-    <!-- Shop Tags -->
     <div class="mb-3">
         <label class="form-label">Shop Tags (comma separated)</label>
         <InputText @bind-Value="currentItem.ShopTags" class="form-control" />
     </div>
 
-    <!-- Attributes (JSON) -->
     <div class="mb-3">
         <label class="form-label">Attributes (JSON)</label>
         <InputTextArea @bind-Value="currentItem.Attributes" class="form-control" placeholder='{"attribute":"value"}' />
     </div>
 
-    <!-- Image URL -->
     <div class="mb-3">
         <label class="form-label">Image URL</label>
         <InputText @bind-Value="currentItem.ImageUrl" class="form-control" />
@@ -80,7 +70,6 @@
     </div>
 </EditForm>
 
-<!-- Items Table -->
 @if (items == null)
 {
     <div class="text-center">

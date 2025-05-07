@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Dota2Blazor",
   "resources": {
-    "hash": "sha256-vVeOiDNOniH4533clPlsKmV/XBGe1kC74bhcEpbCeaI=",
+    "hash": "sha256-R6Uu2LfaQQaPGD2xS3/T1bwgS9qKCtsp1+mRtfGyRb4=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "Dota2Blazor.dhpsm3l4xq.wasm": "Dota2Blazor.wasm",
-      "Dota2Blazor.6l1ish789o.pdb": "Dota2Blazor.pdb"
+      "Dota2Blazor.2tjlkqy7bx.wasm": "Dota2Blazor.wasm",
+      "Dota2Blazor.24qidsmu6g.pdb": "Dota2Blazor.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -412,10 +412,10 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "Dota2Blazor.dhpsm3l4xq.wasm": "sha256-AYJ2Zwkcxc9X6O+oKjSC3hgIYyYTwLWtvbNMPecavhs="
+      "Dota2Blazor.2tjlkqy7bx.wasm": "sha256-eoxo6yMvfini53BR1IiI/v9IZu8k3whNwx4DKjrP3Wg="
     },
     "pdb": {
-      "Dota2Blazor.6l1ish789o.pdb": "sha256-isgz8/SpzKIawh34IIXSPLB5FN6IZCi1+7PgDbItz7g="
+      "Dota2Blazor.24qidsmu6g.pdb": "sha256-slGBGMNwSLURAyJwHt0ob3RSfxPH1fjYj/KxzdIAkQ0="
     }
   },
   "cacheBootResources": true,
